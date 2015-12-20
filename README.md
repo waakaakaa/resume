@@ -1,0 +1,1 @@
+一个简洁优雅的 XeLaTeX 简历模板 来自 https://github.com/billryan/resume/tree/zh_CN
